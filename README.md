@@ -3,7 +3,6 @@
 Performance-Marketing-Berater und Webentwickler mit Fokus auf
 SEO, SEA, Tracking und nachhaltige Webentwicklung.
 
-**Valorferrum** · [valorferrum.com](https://valorferrum.com)
 
 ---
 
@@ -26,7 +25,6 @@ SEO, SEA, Tracking und nachhaltige Webentwicklung.
 - 3 Jahre Agentur-Erfahrung
 - 20.000 € monatliches Ad-Budget betreut
 - 20+ Kampagnen auf 8 EU-Konten
-- Lighthouse 90+ auf eigener Infrastruktur
 
 #### Zertifizierungen
 
@@ -41,7 +39,6 @@ SEO, SEA, Tracking und nachhaltige Webentwicklung.
 #### Kontakt
 
 - 📧 [kontakt@valorferrum.com](mailto:kontakt@valorferrum.com)
-- 🌐 [valorferrum.com](https://valorferrum.com)
 - 💼 [LinkedIn](https://linkedin.com/in/justin-stohlmann)
 
 ---
